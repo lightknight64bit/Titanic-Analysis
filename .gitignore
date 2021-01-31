@@ -1,0 +1,4 @@
+*.Rhistory
+*.png
+catboost_info/
+.ipynb_checkpoints/
