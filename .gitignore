@@ -2,3 +2,4 @@
 catboost_info/
 *.Rhistory
 *.png
+*.gitignore
